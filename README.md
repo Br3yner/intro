@@ -1,2 +1,3 @@
-# intro
-My introduction files
+# Hello! I'm Dennis!
+
+== Welcome to my profile!
